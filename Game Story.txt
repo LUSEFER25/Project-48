@@ -1,0 +1,7 @@
+Story -  U have volenteered to help stop waste like pastics and meatals that are non-biodegradeablefrom going into the seas and the oceans.
+
+Goal - To replenish the marine life and stop the waste from entering the water.
+
+Rules - U can only move left and right. When u catch a certain number of wastes u get an extra life. If any waste touches the water an animal dies. The user can change the animation of the player by Pressing G(for Green Basket) and B(for Blue Basket).
+
+Characters - There may be 1 or 2 players, each player player will have 2 animations 1 with a Green Basket and 1 with a Blue Basket
